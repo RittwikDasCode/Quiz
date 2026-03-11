@@ -100,8 +100,11 @@ Question Service → Database
 ## 📂 Project Structure
 
 API Gateway
+
 Question Service
+
 Quiz Service
+
 Service Registry
 
 Each service is an independent **Spring Boot application**.
